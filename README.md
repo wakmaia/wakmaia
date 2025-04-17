@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wakmaia
-- 👀 I’m interested in AstroJs & Typescript
-- 🌱 I’m currently learning AstroJs
+- 👀 I’m interested in Javascript, React, Tailwind & Typescript
+- 🌱 I'm currently building projects with pure JavaScript."
 
 
 <!---
